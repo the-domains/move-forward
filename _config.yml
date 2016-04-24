@@ -1,14 +1,28 @@
-layout_spectrum: 0.5161117
+name: Move Forward
+favicon: null
+layout_spectrum: 1
 typography_spectrum: 0.04994628
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8630504
-  brandStrength: 1
-  lightness: 0.6933405
   brandColors:
     - '#387BC9'
     - '#FFFEE0'
     - '#010705'
     - '#B2B2B4'
     - '#7B7921'
-  rhythmicContrast: 0.7051557
-name: Move Forward
+  brandStrength: 0
+  lightness: 0.25
+  saturation: 0.1875
+  rhythmicContrast: 0.75
+purpose: []
