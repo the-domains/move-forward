@@ -1,5 +1,4 @@
-layout_spectrum: 0.1820623
-typography_spectrum: 0.04994628
+layout_spectrum: 0.5161117
 color:
   saturation: 0.5977443
   brandStrength: 1
@@ -11,4 +10,5 @@ color:
     - '#B2B2B4'
     - '#7B7921'
   rhythmicContrast: 0.3453276
+typography_spectrum: 0.04994628
 name: Move Forward
