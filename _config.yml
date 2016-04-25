@@ -1,28 +1,40 @@
-name: Move Forward
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.04994628
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Move Forward
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 1
+  brandStrength: 0
+  lightness: 1
   brandColors:
     - '#141824'
     - '#ffffff'
     - '#aac2e2'
     - '#798897'
     - '#52312b'
-  brandStrength: 0
-  lightness: 0.625
-  saturation: 0
-  rhythmicContrast: 0
-purpose: []
+  rhythmicContrast: 1
+typography_spectrum: 0.04994628
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
