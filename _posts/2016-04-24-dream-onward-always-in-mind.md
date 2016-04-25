@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-25T00:00:16.099Z'
-dateModified: '2016-04-24T23:59:57.866Z'
+datePublished: '2016-04-25T00:16:46.417Z'
+dateModified: '2016-04-25T00:00:24.404Z'
 title: 'Dream onward, always in mind'
 author: []
 sourcePath: _posts/2016-04-24-dream-onward-always-in-mind.md
@@ -29,8 +29,5 @@ _type: Blurb
 Real stories of Fulltime Rving from those living the full time RV life. Learn from those loving full time RV . . .
 
 [http://www.fulltime-rving.com/fulltime-rving.html\#sthash.4N6KTgv8][0]
-
-  
-
 
 [0]: http://www.fulltime-rving.com/fulltime-rving.html#sthash.4N6KTgv8
