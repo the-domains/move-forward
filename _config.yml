@@ -1,5 +1,7 @@
-favicon: null
-name: Move Forward
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -10,31 +12,29 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+    permalink:
+      path: '/:title/'
+layout_spectrum: 1
 color:
   saturation: 1
   brandStrength: 0
-  lightness: 1
+  rhythmicContrast: 1
   brandColors:
     - '#141824'
     - '#ffffff'
     - '#aac2e2'
     - '#798897'
     - '#52312b'
-  rhythmicContrast: 1
-typography_spectrum: 0.04994628
+  lightness: 1
+purpose: []
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 1
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: Move Forward
+typography_spectrum: 0.04994628
