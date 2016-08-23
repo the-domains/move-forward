@@ -26,15 +26,15 @@ cta:
   bucket: null
   version: null
   domain: null
-favicon: null
-name: Move Forward
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: Move Forward
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.04994628
-layout_spectrum: 0.4656284
+layout_spectrum: 1
